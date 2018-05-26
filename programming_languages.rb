@@ -1,3 +1,9 @@
 def reformat_languages(languages)
-  # your code here
+  new_hash = {}
+  
+  languages.each do |style_key, language|
+    puts style_key
+  end
 end
+
+reformat_languages()
