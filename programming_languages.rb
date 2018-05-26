@@ -27,7 +27,7 @@
         :javascript => {
           :type => "interpreted"
         }
-     
+      }
       }
     }
   }
