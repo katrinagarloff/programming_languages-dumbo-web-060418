@@ -48,6 +48,7 @@ def reformat_languages(languages)
         else
           extra_style << style_key
         new_hash[language_key] = {data_type_key => data, :style => extra_style}
+        extra_style.clear
       end
   end
   end
