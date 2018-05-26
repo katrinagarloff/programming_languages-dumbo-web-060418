@@ -26,8 +26,6 @@
         },
         :javascript => {
           :type => "interpreted"
-        }
-      }
       }
     }
   }
