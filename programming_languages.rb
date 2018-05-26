@@ -41,7 +41,7 @@ def reformat_languages(languages)
         #puts style_key
         #puts data_type_key
         #puts data
-        #new_hash[language_key] = {data_type_key => data, :style => style_key}
+        new_hash[language_key] = {data_type_key => data, :style => style_key}
   end
   end
   end
