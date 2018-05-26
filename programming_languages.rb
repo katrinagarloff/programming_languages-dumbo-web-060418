@@ -40,6 +40,7 @@ def reformat_languages(languages)
     puts data_type_key
   end
   end
+  end
 end
 
 reformat_languages(my_languages)
